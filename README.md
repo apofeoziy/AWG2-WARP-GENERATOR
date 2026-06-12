@@ -10,7 +10,7 @@
 bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/apofeoziy/AWG2-WARP-GENERATOR/main/warp_generator.sh)
 ```
 4. После того, как конфиг сгенерируется, копируем его, либо скачиваем файлом по ссылке и импортируем в AmneziaVPN!👍
-
+### способ 2
 1. Заходим на https://pad.ws
 2. Continue with Google
 3. В окне Dashboard, если будет кнопка Start, нажмите на неё
